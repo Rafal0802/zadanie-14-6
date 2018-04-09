@@ -1,0 +1,19 @@
+* {
+	box-sizing: border-box;
+}
+
+button {
+	padding: 12px;
+	margin: 20px;
+	color: red;
+	background-color: black;
+	font-size: 25px;
+	width: 60px;
+	height: 80px;
+}
+span {
+	color: blue;
+	background-color: yellow;
+	padding: 20px;
+	font-size: 25px;
+}
